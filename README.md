@@ -12,6 +12,9 @@ This project fetches live stock market data from **Alpha Vantage API**, publishe
 5. **BigQuery** → Stores processed data
 6. **Looker Studio** → Real-time visualization
 
+<img width="787" height="113" alt="image" src="https://github.com/user-attachments/assets/aff34033-5b15-4e98-8a5c-b3a9829ef16d" />
+
+
 ---
 
 ## Folder Structure
